@@ -81,5 +81,4 @@
             android:onClick="onButtonClick"
             android:text="감소" />
     </LinearLayout>
-
 </LinearLayout>
